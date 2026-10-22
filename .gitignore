@@ -1,5 +1,6 @@
 prompt.txt
-file_structure.txt 
+file_structure.txt
+
 # Python
 __pycache__/
 *.py[cod]
